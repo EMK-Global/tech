@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: EMK Global - Tech Support
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+EMK Global - Tech Support
 
 ## Demo
 
