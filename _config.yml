@@ -1,10 +1,10 @@
 # Configurations
 title:            EMK Global
-longtitle:        EMK Global
+longtitle:        EMK Global - IT Documentation
 author:           Hieu Xuan Leu
 email:            tech-support@emkglobal.com.au
 description: >
-  Tech Support
+  IT Documentation
 
 version:          1.0
 gitbook_version:  3.2.3
