@@ -18,4 +18,4 @@ layout: post
 1. **Hotline**: `(+61) 420 794 860`
 2. **Email**: `tech-support@emkglobal.com.au`
 3. **Github**: `https://github.com/EMK-Global`
-4. **Documentation Site**: `https://emk-global.github.io/tech`
+4. **IT Documentation Site**: `https://emk-global.github.io/tech`

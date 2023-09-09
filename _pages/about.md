@@ -8,7 +8,7 @@ layout: post
 
 ![alt](https://emkglobal.com.au/wp-content/uploads/2021/08/logo1.png)
 
-Welcome to our company's Documentation Technology site! This is where you can learn about how we manage and provide information related to our products and services. Our team is committed to delivering high-quality and easily accessible documentation to help you better understand our products and how to use them effectively.
+Welcome to our company's IT Documentation site! This is where you can learn about how we manage and provide information related to our products and services. Our team is committed to delivering high-quality and easily accessible documentation to help you better understand our products and how to use them effectively.
 
 On the page, you will find:
 
