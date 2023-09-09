@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EMK Global - Tech Support
+title: EMK Global - IT Documentation
 permalink: /
 ---
 ![alt](https://emkglobal.com.au/wp-content/uploads/2021/08/logo1.png)
