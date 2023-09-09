@@ -7,7 +7,7 @@ permalink: /
 
 Welcome to our company's IT Documentation site! This is where you can learn about how we manage and provide information related to our products and services. Our team is committed to delivering high-quality and easily accessible documentation to help you better understand our products and how to use them effectively.
 
-On the page, you will find:
+On the site, you will find:
 
 1. **Product User Guides**: We provide detailed instructions on how to install, configure, and use our products. These guides are designed to assist you in troubleshooting issues and maximizing the features of our products.
 
