@@ -6,4 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-Email: `tech-support@emkglobal.com.au`
+1. **Hotline**: `(+61) 420 794 860`
+2. **Email**: `tech-support@emkglobal.com.au`
+3. **Website**: `https://emkglobal.com.au`
+4. **Documentation Site**: `https://emk-global.github.io/tech`
