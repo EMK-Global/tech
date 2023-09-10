@@ -26,14 +26,14 @@ First, make sure you are logged in to your Yandex account.
 
 - In the Settings section, choose **Email Client**.
 
-![alt](https://drive.google.com/file/d/1VrLoBpZfvqUFLL2D0NVeM9rOLUZZzIko/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/a.png)
 
-![alt](https://drive.google.com/file/d/1Ye3arGq5ueB7o-zz_es2091kzASor556/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/b.png)
 
 Enable the option "From the pop.yandex.com server via POP3", **Inbox**, **Sent**, **Mark all messages received using the POP3 server as read in the Yandex Mail web interface** and then click **Save**
 
 
-![alt](https://drive.google.com/file/d/1q-1TGedMj3o3nyzJ6BrPffOuPhYoDbct/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/c.png)
 
 **Step 3: Create a POP3 connection in Gmail**
 
@@ -45,11 +45,11 @@ Enable the option "From the pop.yandex.com server via POP3", **Inbox**, **Sent**
 
 - In the **Accounts and Import** tab, choose **Import mail and contacts**.
 
-![alt](https://drive.google.com/file/d/1gkMPpaX_eeluCwhek9vqPu1l8Qx_o3E2/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/d.png)
 
 - In the pop-up dialog, enter your Yandex email address and click **Continue**.
 
-![alt](https://drive.google.com/file/d/1kUCYpENgdQ1HtscIKhcOK4aLGB16-iq4/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/e.png)
 
 - Next, you'll need to enter the POP3 configuration details for Yandex:
   - **Username:** Enter your Yandex email address.
@@ -60,14 +60,14 @@ Enable the option "From the pop.yandex.com server via POP3", **Inbox**, **Sent**
 
 - After you've entered the POP3 configuration details, click **Continue**.
 
-![alt](https://drive.google.com/file/d/1iev9U9ZmbuLQx6lpObSbEaUgA0CUKhNl/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/f.png)
 
 - Select the import options, lick **Start Import**
 
-![alt](https://drive.google.com/file/d/13RIQEeLcuN68_YIF-Waa2dtyA0sAEndC/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/g.png)
 
 - Finish, click **OK**
 
-![alt](https://drive.google.com/file/d/1OUeyxBNdIEFBVJBHxKlhQYBD_YbYzKh4/view?usp=sharing)
+![alt](https://emkglobal.com.au/wp-content/uploads/2023/09/h.png)
 
 After completing these steps, Gmail will be able to retrieve emails from your Yandex account using the POP3 protocol. The emails will be copied to your Gmail inbox, and you can manage them from there.
